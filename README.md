@@ -13,7 +13,7 @@ https://daten.stadt.sg.ch/explore/dataset/verkehrszahlung-miv-2018-stadt-stgalle
 
 </span></p><p><b>Geokoordinaten:</b></p>
 
-Die Übersicht über die Zählstellen enthält die Koordinaten im schweizerischen Landeskoordinatensystem LV95, sowie im globalen Koordinatensystem WGS84 (GPS). Die LV95-Koordinaten stammen aus dem System des städtischen Tiefbauamtes, während zur Umrechnung von LV95 in WGS84 die Transformationsdienste des Bundesamt für Landestopografie swisstopo verwendet wurden. (Siehe https://www.swisstopo.admin.ch/de/karten-daten-online/calculation-services.html)
+Die Übersicht über die Zählstellen (<a href="https://github.com/CityofStGallen/Motorisierter-Individualverkehr-MIV/blob/master/3_Zaehlstellen_Uebersicht/geokoordinaten_zaehlstellen.csv">geokoordinaten_zaehlstellen.csv</a>) enthält die Koordinaten im schweizerischen Landeskoordinatensystem LV95, sowie im globalen Koordinatensystem WGS84 (GPS). Die LV95-Koordinaten stammen aus dem System des städtischen Tiefbauamtes, während zur Umrechnung von LV95 in WGS84 die Transformationsdienste des Bundesamt für Landestopografie swisstopo verwendet wurden. (Siehe https://www.swisstopo.admin.ch/de/karten-daten-online/calculation-services.html)
 
   
  <p style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 12.495px;"><span style="font-weight: bolder; font-size: 12.495px;"><b>Lizenz:</b></span></p><p style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 12.495px;"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a></p>
